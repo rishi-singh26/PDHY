@@ -1,0 +1,10 @@
+export const primaryColor = "#3b73ff";
+export const primaryErrColor = "#f25246";
+export const primaryErrLightColor = "#ffdbd9";
+export const primaryLightColor = "#5c8bf2";
+export const primarySuperLightColor = "#d4e1ff";
+export const primaryDarkColor = "#0041E7";
+export const yellow = "#ffbb00";
+export const lightYellow = "#f7f2a6";
+export const green = "#0e8700";
+export const lightGreen = "#b5f7ad";
